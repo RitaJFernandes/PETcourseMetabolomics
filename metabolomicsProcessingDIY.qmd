@@ -1,6 +1,7 @@
 ---
 title: "metabolomicsProcessingDIY"
-author: "DeniseSl22"
+author: "Rita"
+author: "Hind"
 format: html
 editor: visual
 ---
@@ -15,6 +16,7 @@ When you click the **Render** button a document will be generated that includes 
 
 ```{r}
 1 + 1
+print("Hello")
 ```
 
 You can add options to executable code like this
@@ -26,7 +28,7 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
-## Introduction 
+## Introduction
 
 In this section of the workflow, we will obtain the metabolomics data and apply filtering options, to create a dataset ready for further statistical and pathway analysis (on Thursday).
 
